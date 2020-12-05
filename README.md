@@ -1,5 +1,5 @@
 # Analytics-NBA
-Personal Project Playing with different statistical analyses of NBA data
+Personal project experimenting with different statistical analyses of NBA data.
 Most of this data is derived from fivethirtyeight's "nba player advanced metrics", downloaded December 5th, 2020.
 In future iterations of this project, I'd like to find a way to update my metrics in real time as fivethirtyeight updates
   their data.
